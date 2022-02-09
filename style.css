@@ -1,6 +1,7 @@
 body{
   background: rgb(0,16,255);
-  background: radial-gradient(circle, rgba(0,16,255,1) 0%, rgba(0,0,0,1) 100%, rgba(9,9,121,1) 100%);
+background: radial-gradient(circle, rgba(0,16,255,1) 0%, rgba(0,0,0,1) 66%);
+
   background-attachment: fixed;
 }
 
@@ -99,8 +100,22 @@ body, html {
     font-size: 1.25rem;
     position: relative;
     margin: 10px;
-  }
+   
+    
+}
+
   
+  
+
+a:hover {
+  background-color: #3262FF;
+}
+
+
+
+
+
+
   /* Button 1*/
   
   .btn-1 {
